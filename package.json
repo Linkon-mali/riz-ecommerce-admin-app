@@ -21,6 +21,9 @@
     "redux-thunk": "^2.4.1",
     "web-vitals": "^2.1.2"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "start": "set PORT=4000 && react-scripts start",
     "build": "react-scripts build",
