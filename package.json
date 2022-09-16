@@ -22,7 +22,8 @@
     "web-vitals": "^2.1.2"
   },
   "engines": {
-    "node": "16.x"
+    "node": "16.x",
+    "npm": "8.x"
   },
   "scripts": {
     "start": "set PORT=4000 && react-scripts start",
