@@ -3,7 +3,7 @@
 //     return `http://localhost:2000/public/${filename}`;
 // }
 
-const baseUrl = process.env.API || "https://riz-ecommerce-mern-back-end.herokuapp.com/";
+const baseUrl = process.env.API || "https://riz-ecommerce-mern-back-end.herokuapp.com";
 //const baseUrl = "http://localhost:2000";
 
 export const api = `${baseUrl}/api`;
